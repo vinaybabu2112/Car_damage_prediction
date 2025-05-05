@@ -64,6 +64,10 @@ The app can be deployed using **Streamlit Cloud**.
 ## License
 This project is **open-source** under the **MIT License**.
 
+## Authors
+- **Dhaval patel**
+- Code Basics Team
+
 ## Contributors
 👩‍💻 **Vinay Muttireddy** – Data Scientist & Developer  
 Feel free to contribute! Open an issue or submit a pull request.
