@@ -34,7 +34,7 @@ streamlit run app.py
 ├── 📂 model
    ├── saved_model.pth     # Trained ResNet-50 model
 ├── model_helper.py         # Model prediction logic
-├── app.py                  # Streamlit application
+├── streamlit.py                  # Streamlit application
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
 ```
