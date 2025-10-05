@@ -134,7 +134,7 @@ This project is licensed under the **MIT License**. Check the `LICENSE` file for
 
 **Vinay Babu Muttireddy**
 🔗 [GitHub](https://github.com/vinaybabu2112)
-📧 [your-email@example.com](mailto:your-email@example.com)
+📧 Vinaybabu2112@gmail.com
 
 
 
